@@ -1,9 +1,15 @@
-The Odin Project: Project 3: Ruby
-http://www.theodinproject.com/web-development-101/ruby
+#Test First Ruby
 
-Goal: Solve test-first Ruby challenges using Ruby and Rspec
-Outcomes:
--familiarize with the fundamentals of Ruby and Rspec 
--practice version control with github
+## The Odin Project: Project 3: Ruby
 
-Instructions found in instructions.mb
+##Project Details
+http://www.theodinproject.com/web-development-101/ruby  
+
+##Goal:
+*Solve test-first Ruby challenges using Ruby and Rspec  
+
+##Outcomes:
+1. familiarize with the fundamentals of Ruby and Rspec 
+2. practice version control with github
+
+##Instructions found in instructions.mb
