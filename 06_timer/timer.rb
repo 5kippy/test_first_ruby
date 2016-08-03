@@ -5,12 +5,12 @@ class Timer
 	#set default attribute "seconds" to zero
 	attr_reader :seconds
 
-    def initialize()
-    	@seconds = 0
-  	end
+	def initialize()
+		@seconds = 0
+	end
 
   	def seconds=(seconds)
-    	@seconds = seconds
+    		@seconds = seconds
   	end
 
 	def seconds
