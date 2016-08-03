@@ -1,5 +1,5 @@
 #write your code here
-#  **find and destroy ## tags for debugging tags** 
+#  **find and destroy ## tags for debugging** 
 def isConsonant letter
 	vowels = ['a', 'e', 'i', 'o', 'u']
 	return !(vowels.include?(letter))
