@@ -63,4 +63,4 @@ def translate prompt
 
 end
 
-puts translate("snuffleluffagus is a cunt")
+puts translate("snuffleluffagus is a crook")
